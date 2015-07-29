@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="activity1">MVC</string>
+    <string name="activity2">MVVM</string>
+    <string name="fragment_main_button_text">Activity DataBinding</string>
+    <string name="fragment_main2_button_text">Activity Tradicional</string>
+</resources>
